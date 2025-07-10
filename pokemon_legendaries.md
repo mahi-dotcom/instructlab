@@ -18,7 +18,6 @@ These interactions require strategic team building and move selection.
 
 ---
 
-
 ### Evolution Methods
 
 Pokémon evolve through various methods:
