@@ -1,5 +1,24 @@
 ## Pokémon Knowledge
 
+### Type Matchups
+
+Pokémon battles involve a complex type matchup system. Types like **Fire**, **Water**, and **Grass** have distinct strengths and weaknesses:
+
+* **Fire** is strong against **Grass**, but weak against **Water**.
+* **Water** is strong against **Fire**, but weak against **Grass**.
+* **Grass** is strong against **Water**, but weak against **Fire**.
+
+Some types are **immune** to others:
+
+* **Ground-type** moves do not affect **Flying-type** Pokémon.
+* **Normal-type** and **Fighting-type** moves do not affect **Ghost-type** Pokémon.
+* **Ghost-type** moves do not affect **Normal-type** Pokémon.
+
+These interactions require strategic team building and move selection.
+
+---
+
+
 ### Evolution Methods
 
 Pokémon evolve through various methods:
